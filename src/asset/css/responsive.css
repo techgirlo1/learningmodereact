@@ -1,0 +1,39 @@
+
+
+
+@media (max-width: 575.98px) {
+    .Toptiltle{
+        
+        font-size: 25px;
+    }
+    .topsub{
+        
+        font-size: 16px;
+    }
+    
+    
+    
+    
+  }
+
+
+@media (max-width: 767.98px) {
+    .Toptiltle{
+        
+        font-size: 32px;
+    }
+    .topsub{
+        
+        font-size: 19px;
+    }
+  }
+
+
+@media (max-width: 991.98px) { }
+
+
+@media (max-width: 1199.98px) {  }
+
+
+@media (max-width: 1399.98px) {  }
+
